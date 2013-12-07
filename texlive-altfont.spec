@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-altfont
 Version:	1.1
-Release:	4
+Release:	5
 Summary:	Alternative font handling in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/altfont
